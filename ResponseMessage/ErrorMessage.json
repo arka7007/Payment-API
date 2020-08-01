@@ -1,0 +1,9 @@
+{
+	"auth_error":{"status": "ERROR","errorCode": 403, "errorMessage": "auth-error"},
+	"param_error":{"status": "ERROR","errorCode": 400, "errorMessage": "invalid-api-parameters"},
+	"customer_not_found_error":{"status": "ERROR","errorCode": 404, "errorMessage": "customer-not-found"},
+	"invalid_ref_id_error":{"status": "ERROR","errorCode": 404, "errorMessage": "invalid-ref-id"},
+	"amount_mismatch_error":{"status": "ERROR","errorCode": 400, "errorMessage": "amount-mismatch"},
+	"path_not_found_error":{"status": "ERROR","errorCode": 404, "errorMessage": "path-not-found"},
+	"unhandled_error":{"status": "ERROR","errorCode": 500, "errorMessage": "unhandled-error"}
+}

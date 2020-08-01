@@ -1,0 +1,6 @@
+{
+	"ApiKeySuccess":{"status":"SUCCESS", "statusCode":200, "data":{"ApiKey":""}},
+	"AddBillSuccess": {"status":"SUCCESS", "statusCode":200 , "data":{"message":"bill-added-suceefully"}},
+	"FetchBill": {"status":"SUCCESS", "statusCode":200 , "data":""},
+	"UpdatePayment":{"status":"SUCCESS", "statusCode":200 , "data":""}
+}

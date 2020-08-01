@@ -1,0 +1,7 @@
+{
+	"AuthRequestKey":["AccessKey"],
+	"AddBillKeys":["customerName", "dueAmount", "dueDate", "refID", "mobileNumber"],
+	"FetchBillKeys":["mobileNumber"],
+	"UpdatePaymentKeys":["refID", "transaction"],
+	"TransactionKeys":["amountPaid", "date", "id"]
+}
